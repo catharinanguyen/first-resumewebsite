@@ -320,6 +320,11 @@ footer .cv-pdf i:hover {
     color: #fafafa;
     margin-bottom: 50px;
 }
+
+.history-items {
+    margin-bottom: 30px;
+}
+
 /*--------------------------------------------Media*/
 
 @media(min-width: 992px) {
